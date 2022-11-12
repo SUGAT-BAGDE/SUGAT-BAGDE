@@ -16,8 +16,8 @@ I am a student just to leave high school, most important I am a passionate Progr
 |-|-|-|-|-|-|
 
 ### Tools
-|<a><img src="./img/vscode.svg" height="40px" width="40px"/></a> |<a><img src="./img/pycharm.svg" height="40px" width="40px" /></a> | <a><img src="./img/Intellij-Idea.svg" height="40px" width="40px"/></a> |<a><img src="./img/react.svg" height="40px" width="40px"/></a> | <a><img src="./img/as.png" height="40px" width="40px"/></a> | Much<br/>More | 
-|-|-|-|-|-|-|
+|<a><img src="./img/vscode.svg" height="40px" width="40px"/></a> |<a><img src="./img/pycharm.svg" height="40px" width="40px" /></a> | <a><img src="./img/Intellij-Idea.svg" height="40px" width="40px"/></a> | <a><img src="./img/as.png" height="40px" width="40px"/></a> | Much<br/>More | 
+|-|-|-|-|-|
 
 #### Note : This all changes time to time.
 
