@@ -3,7 +3,6 @@
 
 I am a student just to leave high school, most important I am a passionate Programmer, Coder, etc.
 
-<br/>
 
 ## My Skills
 
