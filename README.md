@@ -3,11 +3,10 @@
 
 I am a student currently in high School, most important I am a passionate Programmer, Coder, etc.
 
-
 ## My Skills
 
 ### Languages
-|<a><img src="./img/python.png" height="40px" width="40px"/></a> |<a><img src="./img/c.png" height="40px" width="40px"/></a> | <a><img src="./img/cpp.png" height="40px" width="40px"/></a> | <a><img src="./img/java.svg" height="40px" width="40px"/></a> | <a><img src="./img/html5.svg" height="40px" width="40px"/></a> |<a><img src="./img/css3.svg" height="40px" width="40px"/></a> |<a><img src="./img/javascript.svg" height="40px" width="40px"/></a> | <a><img src="./img/rust.png" height="40px" width="40px"/></a> | <span height="40px" width="40px">Learning<br/>More</span> | 
+|<a><img src="./img/python.png" height="40px" width="40px"/></a> |<a><img src="./img/c.png" height="40px" width="40px"/></a> | <a><img src="./img/cpp.png" height="40px" width="40px"/></a> | <a><img src="./img/rust.png" height="40px" width="40px"/></a> | <a><img src="./img/java.svg" height="40px" width="40px"/></a> | <a><img src="./img/html5.svg" height="40px" width="40px"/></a> |<a><img src="./img/css3.svg" height="40px" width="40px"/></a> |<a><img src="./img/javascript.svg" height="40px" width="40px"/></a> | <span height="40px" width="40px">Learning<br/>More</span> | 
 |-|-|-|-|-|-|-|-|-|
 
 ### Frameworks
