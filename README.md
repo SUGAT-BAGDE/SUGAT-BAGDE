@@ -15,7 +15,7 @@ I am a student currently in high School, most important I am a passionate Progra
 
 ### Tools
 |<a><img src="./img/linux.png" height="40px" width="40px"/></a> |<a><img src="./img/vscode.svg" height="40px" width="40px"/></a> | <a><img src="./img/pycharm.svg" height="40px" width="40px" /></a> | <a><img src="./img/Intellij-Idea.svg" height="40px" width="40px"/></a> | <a><img src="./img/as.png" height="40px" width="40px"/></a> | Much<br/>More | 
-|-|-|-|-|-|-1
+|-|-|-|-|-|-|
 
 #### Note : This all changes time to time.
 
