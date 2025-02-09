@@ -10,12 +10,12 @@ I am a student currently in high School, most important I am a passionate Progra
 |-|-|-|-|-|-|-|-|-|
 
 ### Frameworks
-|<a><img src="./img/django.svg" height="40px" width="40px"/></a> |<a><img src="./img/flask.svg" height="40px" width="40px" /></a> | <a><img src="./img/nextjs.png" height="40px" width="40px"/></a> |<a><img src="./img/react.svg" height="40px" width="40px"/></a> | <a><img src="./img/android.svg" height="40px" width="40px"/></a> | Much<br/>More | 
+|<a><img src="./img/django.svg" height="40px" width="40px"/></a> |<a><img src="./img/flask.png" height="40px" width="40px" /></a> | <a><img src="./img/nextjs.png" height="40px" width="40px"/></a> |<a><img src="./img/react.svg" height="40px" width="40px"/></a> | <a><img src="./img/android.svg" height="40px" width="40px"/></a> | Much<br/>More | 
 |-|-|-|-|-|-|
 
 ### Tools
-|<a><img src="./img/vscode.svg" height="40px" width="40px"/></a> |<a><img src="./img/pycharm.svg" height="40px" width="40px" /></a> | <a><img src="./img/Intellij-Idea.svg" height="40px" width="40px"/></a> | <a><img src="./img/as.png" height="40px" width="40px"/></a> | Much<br/>More | 
-|-|-|-|-|-|
+|<a><img src="./img/linux.png" height="40px" width="40px"/></a> |<a><img src="./img/vscode.svg" height="40px" width="40px"/></a> | <a><img src="./img/pycharm.svg" height="40px" width="40px" /></a> | <a><img src="./img/Intellij-Idea.svg" height="40px" width="40px"/></a> | <a><img src="./img/as.png" height="40px" width="40px"/></a> | Much<br/>More | 
+|-|-|-|-|-|-1
 
 #### Note : This all changes time to time.
 
