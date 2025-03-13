@@ -36,7 +36,7 @@ I am a student currently in high School, most important I am a passionate Progra
   <img src="./img/as.png" height="45px" alt="Android Studio"/>
 </p>
 
-#### Note : Trying to learning much more. And this changes over time
+#### Note : I trying to learning much more. And this changes over time
 
 <br/>
 
