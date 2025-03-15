@@ -19,11 +19,19 @@ I am a student currently in high School, most important I am a passionate Progra
 
 ### Frameworks
 <p>
+  <img src="./img/react.svg" height="45px" alt="React"/>
+  <img src="./img/nextjs.png" height="45px" alt="Next.js"/>
+  <img src="./img/rocketrs.png" height="45px" alt="rocket.rs"/>
   <img src="./img/django.svg" height="45px" alt="Django"/>
   <img src="./img/flask.png" height="45px" alt="Flask"/>
-  <img src="./img/nextjs.png" height="45px" alt="Next.js"/>
-  <img src="./img/react.svg" height="45px" alt="React"/>
   <img src="./img/android.svg" height="45px" alt="Android"/>
+</p>
+
+### Databases
+<p>
+  <img src="./img/mongodb.png" height="45px" alt="Mongodb"/>
+  <img src="./img/surrealdb.png" height="45px" alt="Surrealdb"/>
+  <img src="./img/sqlite.png" height="45px" alt="Sqlite"/>
 </p>
 
 ### Tools
@@ -33,10 +41,12 @@ I am a student currently in high School, most important I am a passionate Progra
   <img src="./img/vscode.svg" height="45px" alt="VS Code"/>
   <img src="./img/pycharm.svg" height="45px" alt="PyCharm"/>
   <img src="./img/Intellij-Idea.svg" height="45px" alt="IntelliJ IDEA"/>
+  <img src="./img/rustrover.png" height="45px" alt="RustRover"/>
   <img src="./img/as.png" height="45px" alt="Android Studio"/>
+  <img src="./img/blender.png" height="45px" alt="Blender"/>
 </p>
 
-#### Note : I trying to learning much more. And this changes over time
+#### Note : I am trying to learning much more. And this changes over time!!
 
 <br/>
 
@@ -45,11 +55,17 @@ I am a student currently in high School, most important I am a passionate Progra
 // More about Me
 
 about_sugat = {
-    type : "self trained (from youtube, internet)",
-    skills : "as above, and much more",
-    learning : ["DSA", "Data Science",
-                "Machine Learning", "etc."], 
-    passionate_about : ["Artificial Intelligence","Satellites",
-                    "Qunatum Computers", "Super Computers", "etc."], 
-}
+    type: "Self-trained (from YouTube, internet)",
+    skills: "As above, and much more",
+    learning: ["DSA", "Maths", "Chemistry", "Physics", "etc."],
+    fascinating_things: [
+        "Artificial Intelligence",
+        "Quantum and/or Supercomputers",
+        "Path Tracers and/or Game Engines",
+        "The Open Source Community",
+        "Every Cutie Powerful Transistor in my computers",
+        "etc."
+    ],
+    status: "Exploring Something"
+};
 ```
