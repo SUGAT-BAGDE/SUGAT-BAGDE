@@ -1,7 +1,7 @@
 
 # Hello, This is <b>Sugat</b>
 
-I am a student currently in high School, most important I am a passionate Programmer, Coder, etc.
+I am a high school student, but most importantly, a fascinated programmer and explorer of technology.
 
 ## My Skills
 
