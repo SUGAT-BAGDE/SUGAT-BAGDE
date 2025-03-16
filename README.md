@@ -39,7 +39,7 @@ I am a high school student, but most importantly, a passionate programmer and ex
 <p>
   <img src="./img/linux.png" height="45px" alt="Linux"/>
   <img src="./img/vscode.svg" height="45px" alt="VS Code"/>
-  <img src="./img/pycharm.svg" height="45px" alt="PyCharm"/>
+  <img src="./img/pycharm.png" height="45px" alt="PyCharm"/>
   <img src="./img/Intellij-Idea.svg" height="45px" alt="IntelliJ IDEA"/>
   <img src="./img/rustrover.png" height="45px" alt="RustRover"/>
   <img src="./img/as.png" height="45px" alt="Android Studio"/>
