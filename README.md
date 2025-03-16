@@ -64,7 +64,7 @@ about_sugat = {
         "Path Tracers and/or Game Engines",
         "The Open Source Community",
         "Every Cutie Powerful Transistor in my computers",
-        "Video Games, because why not? 😂"
+        "Video Games, because why not?"
         "etc."
     ],
     status: "Exploring Something"
