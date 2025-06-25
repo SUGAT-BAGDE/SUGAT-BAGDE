@@ -1,7 +1,7 @@
 
 # Hello, This is <b>Sugat</b>
 
-I am a high school student, but most importantly, a passionate programmer and explorer of technology.
+I am a student, but most importantly, a young passionate programmer and explorer of technology.
 
 ## My Skills
 
@@ -38,6 +38,7 @@ I am a high school student, but most importantly, a passionate programmer and ex
 
 <p>
   <img src="./img/linux.png" height="45px" alt="Linux"/>
+  <img src="./img/nvim.svg" height="45px" alt="Neovim"/>
   <img src="./img/vscode.svg" height="45px" alt="VS Code"/>
   <img src="./img/pycharm.png" height="45px" alt="PyCharm"/>
   <img src="./img/Intellij-Idea.svg" height="45px" alt="IntelliJ IDEA"/>
@@ -46,7 +47,7 @@ I am a high school student, but most importantly, a passionate programmer and ex
   <img src="./img/blender.png" height="45px" alt="Blender"/>
 </p>
 
-#### Note : I am trying to learning much more. And this changes over time!!
+> 🧠 Note: I'm a lifelong learner — this list is always growing (and occasionally shrinking)!
 
 <br/>
 
@@ -64,7 +65,7 @@ about_sugat = {
         "Path Tracers and/or Game Engines",
         "The Open Source Community",
         "Every Cutie Powerful Transistor in my computers",
-        "Video Games, because why not?"
+        "Video Games, because why not?",
         "etc."
     ],
     status: "Exploring Something"
