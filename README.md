@@ -1,4 +1,3 @@
-
 # Hello, This is <b>Sugat</b>
 
 I am a student, but most importantly, a young passionate programmer and explorer of technology.
@@ -7,44 +6,43 @@ I am a student, but most importantly, a young passionate programmer and explorer
 
 ### Languages
 <p>
-  <img src="./img/python.png" height="45px" style="margin : 10px;" alt="Python"/>
-  <img src="./img/c.png" height="45px" alt="C"/>
-  <img src="./img/cpp.png" height="45px" alt="C++"/>
-  <img src="./img/rust.png" height="45px" alt="Rust"/>
-  <img src="./img/java.svg" height="45px" alt="Java"/>
-  <img src="./img/html5.svg" height="45px" alt="HTML5"/>
-  <img src="./img/css3.svg" height="45px" alt="CSS3"/>
-  <img src="./img/javascript.svg" height="45px" alt="JavaScript"/>
+  <img src="./img/python.png" style="width:45px; margin:10px;" alt="Python"/>
+  <img src="./img/c.png" style="width:45px; margin:10px;" alt="C"/>
+  <img src="./img/cpp.png" style="width:45px; margin:10px;" alt="C++"/>
+  <img src="./img/rust.png" style="width:45px; margin:10px;" alt="Rust"/>
+  <img src="./img/java.svg" style="width:45px; margin:10px;" alt="Java"/>
+  <img src="./img/html5.svg" style="width:45px; margin:10px;" alt="HTML5"/>
+  <img src="./img/css3.svg" style="width:45px; margin:10px;" alt="CSS3"/>
+  <img src="./img/javascript.svg" style="width:45px; margin:10px;" alt="JavaScript"/>
 </p>
 
 ### Frameworks
 <p>
-  <img src="./img/react.svg" height="45px" alt="React"/>
-  <img src="./img/nextjs.png" height="45px" alt="Next.js"/>
-  <img src="./img/rocketrs.png" height="45px" alt="rocket.rs"/>
-  <img src="./img/django.svg" height="45px" alt="Django"/>
-  <img src="./img/flask.png" height="45px" alt="Flask"/>
-  <img src="./img/android.svg" height="45px" alt="Android"/>
+  <img src="./img/react.svg" style="width:45px; margin:10px;" alt="React"/>
+  <img src="./img/nextjs.png" style="width:45px; margin:10px;" alt="Next.js"/>
+  <img src="./img/rocketrs.png" style="width:45px; margin:10px;" alt="rocket.rs"/>
+  <img src="./img/django.svg" style="width:45px; margin:10px;" alt="Django"/>
+  <img src="./img/flask.png" style="width:45px; margin:10px;" alt="Flask"/>
+  <img src="./img/android.svg" style="width:45px; margin:10px;" alt="Android"/>
 </p>
 
 ### Databases
 <p>
-  <img src="./img/mongodb.png" height="45px" alt="Mongodb"/>
-  <img src="./img/surrealdb.png" height="45px" alt="Surrealdb"/>
-  <img src="./img/sqlite.png" height="45px" alt="Sqlite"/>
+  <img src="./img/mongodb.png" style="width:45px; margin:10px;" alt="MongoDB"/>
+  <img src="./img/surrealdb.png" style="width:45px; margin:10px;" alt="SurrealDB"/>
+  <img src="./img/sqlite.png" style="width:45px; margin:10px;" alt="SQLite"/>
 </p>
 
 ### Tools
-
 <p>
-  <img src="./img/linux.png" height="45px" alt="Linux"/>
-  <img src="./img/nvim.svg" height="45px" alt="Neovim"/>
-  <img src="./img/vscode.svg" height="45px" alt="VS Code"/>
-  <img src="./img/pycharm.png" height="45px" alt="PyCharm"/>
-  <img src="./img/Intellij-Idea.svg" height="45px" alt="IntelliJ IDEA"/>
-  <img src="./img/rustrover.png" height="45px" alt="RustRover"/>
-  <img src="./img/as.png" height="45px" alt="Android Studio"/>
-  <img src="./img/blender.png" height="45px" alt="Blender"/>
+  <img src="./img/linux.png" style="width:45px; margin:10px;" alt="Linux"/>
+  <img src="./img/nvim.svg" style="width:45px; margin:10px;" alt="Neovim"/>
+  <img src="./img/vscode.svg" style="width:45px; margin:10px;" alt="VS Code"/>
+  <img src="./img/pycharm.png" style="width:45px; margin:10px;" alt="PyCharm"/>
+  <img src="./img/Intellij-Idea.svg" style="width:45px; margin:10px;" alt="IntelliJ IDEA"/>
+  <img src="./img/rustrover.png" style="width:45px; margin:10px;" alt="RustRover"/>
+  <img src="./img/as.png" style="width:45px; margin:10px;" alt="Android Studio"/>
+  <img src="./img/blender.png" style="width:45px; margin:10px;" alt="Blender"/>
 </p>
 
 > 🧠 Note: I'm a lifelong learner — this list is always growing (and occasionally shrinking)!
@@ -70,4 +68,3 @@ about_sugat = {
     ],
     status: "Exploring Something"
 };
-```
