@@ -2,7 +2,7 @@
 
 I am a student, but most importantly, a young passionate programmer and explorer of technology.
 
-## My Skills
+## I worked with...
 
 ### Languages
 <p>
