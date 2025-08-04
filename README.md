@@ -2,7 +2,7 @@
 
 I am a student, but most importantly, a young passionate programmer and explorer of technology.
 
-## I worked with...
+## Technologies I’ve worked with
 
 ### Languages
 <p>
@@ -45,7 +45,7 @@ I am a student, but most importantly, a young passionate programmer and explorer
   <img src="./img/blender.png" style="height:45px; margin:10px;" alt="Blender"/>
 </p>
 
-> 🧠 Note: I'm a lifelong learner — this list is always growing (and occasionally shrinking)!
+> 🧠 Note: I'm a lifelong learner — this list is always growing (and occasionally shrinking)! Some of these I’m still learning or used briefly!
 
 <br/>
 
